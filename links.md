@@ -11,5 +11,7 @@ These commands will help you list PCI devices, view information about your CPU, 
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) --- Quick reference on how to user Markdown.
 * [GIT Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf) --- Reference on how to use Git commands (push, pull, commit).
 * [Basic Linux Commands](https://www.geeksforgeeks.org/basic-linux-commands/) --- 25 of the most common Linux commands.
+* [GPG Key Explanation & How to Generate It](https://docs.github.com/en/authentication/managing-commit-signature-verification/generating-a-new-gpg-key) --- A complete guide on how to GPG keys and how to generate it.
+* [Debian Explained](https://www.debian.org/doc/manuals/debian-faq/basic-defs.en.html) --- A comprehensive guide about Debian from the makers themselves.
 <br>
 <hr>
