@@ -13,5 +13,7 @@ These commands will help you list PCI devices, view information about your CPU, 
 * [Basic Linux Commands](https://www.geeksforgeeks.org/basic-linux-commands/) --- 25 of the most common Linux commands.
 * [GPG Key Explanation & How to Generate It](https://docs.github.com/en/authentication/managing-commit-signature-verification/generating-a-new-gpg-key) --- A complete guide on how to GPG keys and how to generate it.
 * [Debian Explained](https://www.debian.org/doc/manuals/debian-faq/basic-defs.en.html) --- A comprehensive guide about Debian from the makers themselves.
+* [OVA Backup](https://doit.vlsm.org/013.html#idx015) --- Quick guide to save a backup. DO THIS REGULARLY
+* [UUID](https://en.wikipedia.org/wiki/Universally_unique_identifier) --- Comprehensive explanation about UUID
 <br>
 <hr>

@@ -24,3 +24,10 @@ ZCZC W02 15 L03 Github related
 ZCZC W02 60 L12 Assignment #02
 ZCZC W02 15 L41 TXT/mylog.txt related
 ZCZC W02 15 L03 Github related
+ZCZC W03 180 L13 Assignment #03
+ZCZC W03 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W03 30 L61 Install/Reinstall/Restore/Backup Virtual Box
+ZCZC W03 15 L41 TXT/mylog.txt related
+ZCZC W03 180 L09 Assignments in General
+ZCZC W03 60 L43 TXT/myrank.txt related, peer review
+ZCZC W03 600 L99 Gemastik
