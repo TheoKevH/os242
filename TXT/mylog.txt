@@ -31,3 +31,8 @@ ZCZC W03 15 L41 TXT/mylog.txt related
 ZCZC W03 180 L09 Assignments in General
 ZCZC W03 60 L43 TXT/myrank.txt related, peer review
 ZCZC W03 600 L99 Gemastik
+ZCZC W04 180 L14 Assignment #04
+ZCZC W04 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W04 15 L41 TXT/mylog.txt related
+ZCZC W04 300 L09 Assignments in General
+ZCZC W04 45 L43 TXT/myrank.txt related, peer review

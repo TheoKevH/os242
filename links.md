@@ -15,5 +15,7 @@ These commands will help you list PCI devices, view information about your CPU, 
 * [Debian Explained](https://www.debian.org/doc/manuals/debian-faq/basic-defs.en.html) --- A comprehensive guide about Debian from the makers themselves.
 * [OVA Backup](https://doit.vlsm.org/013.html#idx015) --- Quick guide to save a backup. DO THIS REGULARLY
 * [UUID](https://en.wikipedia.org/wiki/Universally_unique_identifier) --- Comprehensive explanation about UUID
+* [TLPI](https://broman.dev/download/The%20Linux%20Programming%20Interface.pdf) --- Textbook about The Linux Programming Interface (TLPI)
+* [Debian vs Ubuntu](https://medium.com/@reynoldsfred675/ubuntu-vs-debian-a-comprehensive-comparison-f17a95c38ca0) --- Comparison between Debian and Ubuntu
 <br>
 <hr>
