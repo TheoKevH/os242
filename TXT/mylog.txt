@@ -36,3 +36,8 @@ ZCZC W04 200 L02 CLASSROOM/ZOOM meetings related
 ZCZC W04 15 L41 TXT/mylog.txt related
 ZCZC W04 300 L09 Assignments in General
 ZCZC W04 45 L43 TXT/myrank.txt related, peer review
+ZCZC W05 200 L15 Assignment #05
+ZCZC W05 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W05 15 L41 TXT/mylog.txt related
+ZCZC W05 200 L09 Assignments in General
+ZCZC W05 45 L43 TXT/myrank.txt related, peer review

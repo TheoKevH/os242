@@ -17,5 +17,7 @@ These commands will help you list PCI devices, view information about your CPU, 
 * [UUID](https://en.wikipedia.org/wiki/Universally_unique_identifier) --- Comprehensive explanation about UUID
 * [TLPI](https://broman.dev/download/The%20Linux%20Programming%20Interface.pdf) --- Textbook about The Linux Programming Interface (TLPI)
 * [Debian vs Ubuntu](https://medium.com/@reynoldsfred675/ubuntu-vs-debian-a-comprehensive-comparison-f17a95c38ca0) --- Comparison between Debian and Ubuntu
+* [Bash knowledge](https://opensource.com/resources/what-bash) --- A detailed information about Bash and its uses
+* [Computer Memory](https://en.wikipedia.org/wiki/Computer_memory) --- Information regarding computer memory and data storage types
 <br>
 <hr>
