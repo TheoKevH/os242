@@ -19,5 +19,7 @@ These commands will help you list PCI devices, view information about your CPU, 
 * [Debian vs Ubuntu](https://medium.com/@reynoldsfred675/ubuntu-vs-debian-a-comprehensive-comparison-f17a95c38ca0) --- Comparison between Debian and Ubuntu
 * [Bash knowledge](https://opensource.com/resources/what-bash) --- A detailed information about Bash and its uses
 * [Computer Memory](https://en.wikipedia.org/wiki/Computer_memory) --- Information regarding computer memory and data storage types
+* [Fork](https://en.wikipedia.org/wiki/Fork_(software_development)) --- Comprehensive explanation about forking in software development
+* [Make & Makefile](https://opensource.com/article/18/8/what-how-makefile) --- What is a Makefile and how it works
 <br>
 <hr>
