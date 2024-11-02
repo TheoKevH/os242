@@ -21,5 +21,7 @@ These commands will help you list PCI devices, view information about your CPU, 
 * [Computer Memory](https://en.wikipedia.org/wiki/Computer_memory) --- Information regarding computer memory and data storage types
 * [Fork](https://en.wikipedia.org/wiki/Fork_(software_development)) --- Comprehensive explanation about forking in software development
 * [Make & Makefile](https://opensource.com/article/18/8/what-how-makefile) --- What is a Makefile and how it works
+& [Quick Bash Resource](https://www.redhat.com/en/blog/learn-bash-scripting) --- 13 Resources for learning to write better Bash Code
+* [Docusaurus](https://opensource.fb.com/projects/docusaurus/) --- Overview of Docusaurus, from the makers themselves 
 <br>
 <hr>

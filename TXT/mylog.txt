@@ -47,3 +47,12 @@ ZCZC W06 15 L41 TXT/mylog.txt related
 ZCZC W06 100 L09 Assignments in General
 ZCZC W06 30 L43 TXT/myrank.txt related, peer review
 ZCZC W06 150 L29 OS Shoping related: buy a laptop, flashdisk, etc.
+ZCZC W07 180 L17 Assignment #07
+ZCZC W07 15 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W07 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W07 15 L41 TXT/mylog.txt related
+ZCZC W07 15 L43 TXT/myrank.tXT related, including peer review
+ZCZC W07 30 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W07 30 L03 GitHub and git related, including commit, push, pull
+ZCZC W07 15 L64 Helping a friend (OS related problem)
+ZCZC W07 30 L22 Linux CLI including tar, etc
