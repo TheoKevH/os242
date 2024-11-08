@@ -23,5 +23,7 @@ These commands will help you list PCI devices, view information about your CPU, 
 * [Make & Makefile](https://opensource.com/article/18/8/what-how-makefile) --- What is a Makefile and how it works
 & [Quick Bash Resource](https://www.redhat.com/en/blog/learn-bash-scripting) --- 13 Resources for learning to write better Bash Code
 * [Docusaurus](https://opensource.fb.com/projects/docusaurus/) --- Overview of Docusaurus, from the makers themselves 
+* [Linux From Scratch](https://www.linuxfromscratch.org/) --- Website of the Linux From Scratch project to learn all the things you need
+* [Tarball](https://www.cs.cornell.edu/courses/cs5220/2024fa/tar-info.html#:~:text=A%20tarball%20is%20a%20set,packaging%20files%20has%20been%20around!) --- Quick & easy information about tarball
 <br>
 <hr>

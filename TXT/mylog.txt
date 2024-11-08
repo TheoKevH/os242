@@ -56,3 +56,9 @@ ZCZC W07 30 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W07 30 L03 GitHub and git related, including commit, push, pull
 ZCZC W07 15 L64 Helping a friend (OS related problem)
 ZCZC W07 30 L22 Linux CLI including tar, etc
+ZCZC W08 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W08 200 L18 Assignment #08
+ZCZC W08 15 L41 TXT/mylog.txt related
+ZCZC W08 15 L43 TXT/myrank.txt related, including peer review
+ZCZC W08 120 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W08 15 L22 Linux CLI including tar, etc
